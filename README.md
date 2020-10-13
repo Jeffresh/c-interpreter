@@ -15,4 +15,15 @@ The interpreter accepts:
 
 ### Implementation
 
-[notebook](src/c_interpreter.ipynb)
+[notebook stage 1](src/c_interpreter.ipynb)
+
+# Stage 2
+
+The interpreter accepts:
+
+- Conditional statements(if - else)
+- *printf* function
+
+### Implementation (WIP)
+
+[notebook stage 2](src/c_interpreter_stage2.ipynb)
