@@ -1,0 +1,5 @@
+if_sentences
+if(a > 5) { b = 4; c = 5 + b; }
+if(b < a) c = 4; 
+
+
