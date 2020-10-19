@@ -1,5 +1,6 @@
 if_sentences
 if(a > 5) { b = 4; c = 5 + b; }
 if(b < a) c = 4; 
+"if(3 > 5) { b = 4; c = 5 + b; d = 5 + 4 ;}"
 
 
