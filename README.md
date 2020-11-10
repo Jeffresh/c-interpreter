@@ -22,8 +22,20 @@ The interpreter accepts:
 The interpreter accepts:
 
 - Conditional statements(if - else)
-- *printf* function
 
 ### Implementation (WIP)
 
 [notebook stage 2](src/c_interpreter_stage2.ipynb)
+
+# Stage 3
+
+The interpreter accepts:
+- printf function
+- Add the AST for arithmetic, logic and relational operators. 
+
+# Stage 4
+
+The interpreter accepts:
+
+- scanf functions from C language.
+- general functions(Void) from C language.
