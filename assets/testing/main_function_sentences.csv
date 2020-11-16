@@ -1,0 +1,6 @@
+'main_function'
+'int main(){a=0; b=0; scanf("%d %d", a,b); c = 3 + 2 + a; d = 5 + b;}'
+'int main(){a=0; b=0;}'
+'int main(){a=0;}'
+
+
