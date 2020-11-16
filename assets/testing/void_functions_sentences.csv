@@ -1,0 +1,6 @@
+'void_functions'
+'void test(){a=0; b=0; scanf("%d %d", a,b); c = 3 + 2 + a; d = 5 + b;}'
+'void test(a , b){ c = b + 3; a = a + 5;}'
+'test();'
+'test(5, 2);'
+'test(a, b);'
