@@ -1,0 +1,4 @@
+'printf_sentences'
+'printf("%d %d %d %d", a, b, c, d);'
+'printf("%d %f", 8, 45);' 
+'printf("the add is %d the sub is %f", 8, 45);' 
