@@ -39,3 +39,7 @@ The interpreter accepts:
 
 - scanf functions from C language.
 - general functions(Void) from C language.
+
+# Stage 5
+
+Adding the translation to assembler code of arithmetic operations. Using the AST.
