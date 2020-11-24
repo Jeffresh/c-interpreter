@@ -43,3 +43,10 @@ The interpreter accepts:
 # Stage 5
 
 Adding the translation to assembler code of arithmetic operations. Using the AST.
+
+# Stage 6
+
+The intepeter accepts:
+
+- Use of arrays, matrices and pointers.
+- Assembler code generation related for arrays and matrices, understanding this structures like consecutive variables in the stack.
