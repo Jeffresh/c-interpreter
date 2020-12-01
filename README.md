@@ -50,3 +50,8 @@ The intepeter accepts:
 
 - Use of arrays, matrices and pointers.
 - Assembler code generation related for arrays and matrices, understanding this structures like consecutive variables in the stack.
+
+# Stage 7
+
+- Generate the associate assembler code for functions (printf and scanf, arithmetic functions and user functions )
+- Optional: adap the grammer for accepting while sentences.
